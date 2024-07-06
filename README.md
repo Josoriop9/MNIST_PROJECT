@@ -1,3 +1,4 @@
+# The MNIST Project
 MNIST Digit Recognition
 This project is a simple graphical application for recognizing handwritten digits using a pre-trained TensorFlow Keras model on the MNIST dataset. The application provides a drawing area where users can draw a digit, and the model predicts the digit in real-time.
 
@@ -17,7 +18,7 @@ Clone the repository:
 sh
 Copy code
 git clone https://github.com/Josoriop9/MNIST_PROJECT
-cd MNIST_PROJECT
+cd mnist_digit_recognition
 Create and activate a virtual environment:
 
 On macOS and Linux:
